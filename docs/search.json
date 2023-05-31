@@ -5,7 +5,7 @@
       "title": "Tidy Tuesday Projects",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-24T00:24:18-07:00"
+      "last_modified": "2023-05-30T23:28:43-07:00"
     },
     {
       "path": "index.html",
@@ -26,14 +26,14 @@
       "title": "Resume",
       "author": [],
       "contents": "\n\n\n\n\n\n",
-      "last_modified": "2023-05-24T00:24:18-07:00"
+      "last_modified": "2023-05-30T23:31:27-07:00"
     },
     {
       "path": "text_analysis.html",
       "title": "Data Science Projects",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-24T00:24:18-07:00"
+      "last_modified": "2023-05-30T23:29:58-07:00"
     }
   ],
   "collections": ["tidytuesday/tidytuesday.json", "texts/texts.json"]
