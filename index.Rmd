@@ -4,8 +4,6 @@ image: "main_picture.jpg"
 links:
   - label: <i class="fab fa-linkedin" style="color:#2175ed"></i>
     url: "https://www.linkedin.com/in/khanjian/"
-  - label: <i class="fab fa-twitter" style="color:#1dcaff"></i>
-    url: "https://twitter.com/rkhanjian"
   - label: <i class="fa fa-github" style="color:black"></i> 
     url: "https://github.com/khanjian"
   - label: <i class="fa fa-envelope" style="color:#ff7a59"></i>
@@ -15,3 +13,14 @@ output:
 site: distill::distill_website  
 ---
   
+        
+  
+<!-- Hi there! I'm a Data Analyst at the non-profit [UpTogether](uptogether.org) where I use data to demonstrate the impacts of the strength-based approach to end poverty.  -->
+
+<!-- I enjoy playing board games and watching basketball. Click on one of the tabs above or the icons below to learn more about me! Please feel free to reach out if you have any questions. -->
+
+
+
+<!-- I'm a graduate student in Statistics, with an emphasis in Data Science at the University of California, Santa Barbara. I'm interested in discovering new ways to analyze data, mostly in R. After graduating in June 2021 I am looking for exciting opportunities to apply my skills.      -->
+
+<!-- Outside of statistics I enjoy playing board games and watching basketball. Click on one of the tabs above or the icons below to learn more about me! Please feel free to reach out if you have any questions. -->

@@ -4,13 +4,10 @@ description: |
   Roupen Khanjian
 output_dir: "docs"
 base_url: https://khanjian.github.io/roupen-website/
-google_analytics: "G-NPTMEDSLJG"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Resume"
       href: Roupen_Khanjian_Resume.html
     - text: "Projects"  
